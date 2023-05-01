@@ -1,0 +1,25 @@
+Question Tracking ex: 3/20
+-Rausfinden an welcher Frage der Benutzer aktuel/gerade  ist
+-Speichern
+
+
+__BUGS Analysieren__
+*Delete Fehler
+
+
+________________________________
+
+1*X Delete Fehler beheben
+2* Vorhandenen Funktionalitäten durchtesten 
+	(BUG: Dogru cevap silinebilioyr)
+	 BUG: Dogru cevap olmadan soru sorulabiliyor
+	 BUG: Cevapsiz soru oluyor
+3* Question Tracking (3/20)
+   3a-Zugriff auf gesamt Anzahl von Frageen
+      -Zugriff auf Datenbank rausfinden
+   3b-Aktuelle Fragennummer rausfinden
+   3c-
+4* In Frontend Anzahl von Fragen zeigen - 50/ Counter dynamisch machen
+5* Previous Next Button
+6* Auflösen Optional
+7* Ergebnis Anzeigen
