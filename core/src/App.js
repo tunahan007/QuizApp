@@ -6,6 +6,7 @@ import RandomQuiz from './components/RandomQuiz'
 import NormalQuiz from './components/NormalQuiz'
 
 
+
 function App() {
   return (
     <Router>
